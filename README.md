@@ -6,4 +6,4 @@
 
 制作该插件目的是方便我使用网页版ai(bushi
 
-![[images/p1.png]]
+![https://github.com/LightPolarisCN/mini-browser/blob/main/images/p1.png]
