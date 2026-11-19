@@ -6,4 +6,4 @@
 
 制作该插件目的是方便我使用网页版ai(bushi
 
-![[./images/p1.png]]
+![示例](./images/p1.png)
